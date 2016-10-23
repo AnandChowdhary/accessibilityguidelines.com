@@ -21,6 +21,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - Keyboard navigation, “skip to content”
 - ARIA attributes, SEO meta tags, etc.
 - Semantic tags, eg. blockquote cite
+- Adding speech synthesis to all content
 - Translation?
 
 ### Articles
@@ -32,15 +33,15 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - https://blog.prototypr.io/the-beginner-s-guide-to-accessible-mobile-ui-design-ca13a7342c27#.bink0m5bo
 - https://blog.prototypr.io/underline-links-usability-ux-and-readability-6ecf894317f3#.2b8u7ehad
 - https://blog.prototypr.io/common-accessibility-problems-good-and-bad-examples-in-modern-websites-a13efb7256ad#.lml10bbo1
-- https://css-tricks.com/accessible-svgs/
 - http://sidebar.io/?cat=accessibility
-- http://html5doctor.com/cite-and-blockquote-reloaded/
 
 #### UI Elements
 
 - https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67#.nrjefpx09
 - https://yeun.github.io/open-color/ (beautiful swatches)
 - http://wtfhtmlcss.com/ (I want the design to be like this)
+- https://css-tricks.com/accessible-svgs/
+- http://html5doctor.com/cite-and-blockquote-reloaded/
 
 #### Color blindness
 
