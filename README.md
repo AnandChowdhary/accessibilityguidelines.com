@@ -34,6 +34,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - https://blog.prototypr.io/underline-links-usability-ux-and-readability-6ecf894317f3#.2b8u7ehad
 - https://blog.prototypr.io/common-accessibility-problems-good-and-bad-examples-in-modern-websites-a13efb7256ad#.lml10bbo1
 - http://sidebar.io/?cat=accessibility
+- https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 
 #### UI Elements
 
