@@ -1,4 +1,4 @@
-# 	Accessibility Guidelines Projects
+# Accessibility Guidelines Projects
 
 I've wanted to write my own style guide since a few years. I usually adhere to the Chicago Manual of Style, but there are still some places where we end up disagreeing. Now that I work at [Oswald Foundation](https://oswald.foundation), an accessibility technology company, I thought that it would be a great idea to write universal accessibiliy and design guidelines, which should be thorough yet easy to implement.
 
@@ -35,6 +35,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - https://blog.prototypr.io/common-accessibility-problems-good-and-bad-examples-in-modern-websites-a13efb7256ad#.lml10bbo1
 - http://sidebar.io/?cat=accessibility
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
+- http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 
 #### UI Elements
 
@@ -51,3 +52,5 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - https://medium.com/design-notes/a-tale-of-a-colour-blind-designer-9ac4cda46318#.1zqpck9bo
 - https://motherboard.vice.com/read/you-think-popup-ads-are-bad-theyre-even-worse-for-the-blind
 - http://leaverou.github.io/contrast-ratio/ (super awesome tool)
+- https://www.randoma11y.com/#/?_k=o2jaoj
+- http://mrmrs.io/contrast/
