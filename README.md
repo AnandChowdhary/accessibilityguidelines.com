@@ -26,21 +26,33 @@ The first step is to make a list of topics we'd like to cover, and then links to
 
 ### Articles
 
+**https://www.w3.org/TR/WCAG/**
+
 #### General Accessibility
 
+- https://soap.stanford.edu/
+- https://soap.stanford.edu/tips-and-tools/tips
 - http://accessibility.voxmedia.com/
+- http://www.washington.edu/accessibility/guidelines/
 - https://blog.prototypr.io/designing-for-accessibility-the-ultimate-in-ux-e366165d0db7#.93oaii7f8
 - https://blog.prototypr.io/the-beginner-s-guide-to-accessible-mobile-ui-design-ca13a7342c27#.bink0m5bo
 - https://blog.prototypr.io/underline-links-usability-ux-and-readability-6ecf894317f3#.2b8u7ehad
 - https://blog.prototypr.io/common-accessibility-problems-good-and-bad-examples-in-modern-websites-a13efb7256ad#.lml10bbo1
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 - http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
+- http://www.slideshare.net/jameschandler
+- https://davidakennedy.com/2014/10/31/web-accessibility-in-60-seconds/
+- https://www.sitepoint.com/popular-mistakes-in-universal-web-design/
+- http://universalusability.com/access_by_design/index.html
+- http://www.washington.edu/doit/programs/accesscollege/faculty-room/universal-design
+- https://www.ncsu.edu/www/ncsu/design/sod5/cud/about_ud/udprinciples.htm
 
 #### Lists/Newsletters
 
 - http://www.unimelb.edu.au/accessibility/newsletters
 - http://a11yweekly.com/
 - http://sidebar.io/?cat=accessibility
+- http://web.guidelines.gov.in/
 
 #### UI Elements
 
@@ -56,6 +68,21 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - https://uxplanet.org/108-million-web-users-are-color-blind-tips-for-designing-keeping-them-in-mind-7be71d0019a9#.jo39t8fwi
 - https://medium.com/design-notes/a-tale-of-a-colour-blind-designer-9ac4cda46318#.1zqpck9bo
 - https://motherboard.vice.com/read/you-think-popup-ads-are-bad-theyre-even-worse-for-the-blind
-- http://leaverou.github.io/contrast-ratio/ (super awesome tool)
 - https://www.randoma11y.com/#/?_k=o2jaoj
 - http://mrmrs.io/contrast/
+
+#### Tools
+
+- http://wave.webaim.org/ (incredible)
+- http://leaverou.github.io/contrast-ratio/
+- http://www.etre.com/tools/accessibilitycheck/
+- https://www.w3.org/developers/tools/
+
+#### Checklists
+
+- **http://www.washington.edu/accessibility/checklist/**
+- http://webaim.org/standards/wcag/checklist/
+- http://ncdae.org/resources/cheatsheets/accessibility.php
+- http://pauljadam.com/wcag20checklist.html
+- http://design4access.nomensa.com/checklist.html
+- https://www.w3.org/WAI/eval/preliminary
