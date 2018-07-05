@@ -1,4 +1,4 @@
-# Accessibility Guidelines Projects
+# Accessibility Guidelines
 
 I've wanted to write my own style guide since a few years. I usually adhere to the Chicago Manual of Style, but there are still some places where we end up disagreeing. Now that I work at [Oswald Foundation](https://oswald.foundation), an accessibility technology company, I thought that it would be a great idea to write universal accessibiliy and design guidelines, which should be thorough yet easy to implement.
 
