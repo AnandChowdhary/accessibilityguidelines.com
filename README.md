@@ -47,6 +47,10 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - http://www.washington.edu/doit/programs/accesscollege/faculty-room/universal-design
 - https://www.ncsu.edu/www/ncsu/design/sod5/cud/about_ud/udprinciples.htm
 
+#### Type
+
+- https://www.zachleat.com/web/font-checklist/
+
 #### Lists/Newsletters
 
 - http://www.unimelb.edu.au/accessibility/newsletters
