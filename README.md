@@ -26,6 +26,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - Button text shouldn't be title cased, should be sentence cased; manual of style
 - Smart quotes, manual of style, implementation guide (smartquotes.js or Hugo Markdown render)
 - Translation?
+- Don't use flag icons for languages, what about currencies?
 
 ### Articles
 
