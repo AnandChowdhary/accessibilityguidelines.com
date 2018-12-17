@@ -1,6 +1,6 @@
 # Accessibility Guidelines
 
-I've wanted to write my own style guide since a few years. I usually adhere to the Chicago Manual of Style, but there are still some places where we end up disagreeing. Now that I work at [Oswald Foundation](https://oswald.foundation), an accessibility technology company, I thought that it would be a great idea to write universal accessibiliy and design guidelines, which should be thorough yet easy to implement.
+I've wanted to write my own style guide since a few years. I usually adhere to the Chicago Manual of Style, but there are still some places where we end up disagreeing. Now that I work at [Oswald Labs](https://oswaldlabs.com), an accessibility technology company, I thought that it would be a great idea to write universal accessibiliy and design guidelines, which should be thorough yet easy to implement.
 
 ### Mission
 1. It should cover all aspects of web design, from typography to images to futuristic assistive technology.
@@ -17,11 +17,14 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - Link underlines, tooltips, focus states
 - Alt text for images, accessible SVGs
 - Color blindness, dyslexia, *Agastya* incorporation
-- Using correct elements, eg. address, accessibility tree
+- Using correct elements, eg. <address> and <time>, accessibility tree
 - Keyboard navigation, “skip to content”
 - ARIA attributes, SEO meta tags, etc.
 - Semantic tags, eg. blockquote cite
-- Adding speech synthesis to all content
+- Adding speech synthesis to all content? Not good, but a case can be made
+- 20% reading time Augmenta11y research
+- Button text shouldn't be title cased, should be sentence cased; manual of style
+- Smart quotes, manual of style, implementation guide (smartquotes.js or Hugo Markdown render)
 - Translation?
 
 ### Articles
