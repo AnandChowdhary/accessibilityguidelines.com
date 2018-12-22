@@ -27,6 +27,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - Smart quotes, manual of style, implementation guide (smartquotes.js or Hugo Markdown render)
 - Translation?
 - Don't use flag icons for languages, what about currencies?
+  - Primark employee badges have little flags for languages (works well)
   
 ### Books
 - O'Reilly
