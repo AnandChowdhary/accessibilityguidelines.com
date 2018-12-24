@@ -94,6 +94,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 
 #### Checklists
 
+- https://dequeuniversity.com/rules/axe/3.0
 - **http://www.washington.edu/accessibility/checklist/**
 - http://webaim.org/standards/wcag/checklist/
 - http://ncdae.org/resources/cheatsheets/accessibility.php
