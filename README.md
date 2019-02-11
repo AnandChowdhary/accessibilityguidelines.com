@@ -28,6 +28,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 - Translation?
 - Don't use flag icons for languages, what about currencies?
   - Primark employee badges have little flags for languages (works well)
+  - Flixbus website has a globe icon for English plus flag icons
 - Use input autocomplete attributes for autocomplete and for password managers (see docs)=
 - :focus-visible
   
