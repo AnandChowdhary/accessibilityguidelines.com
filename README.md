@@ -44,6 +44,7 @@ The first step is to make a list of topics we'd like to cover, and then links to
 #### General Accessibility
 
 - https://soap.stanford.edu/
+- https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility
 - https://soap.stanford.edu/tips-and-tools/tips
 - http://accessibility.voxmedia.com/
 - http://www.washington.edu/accessibility/guidelines/
