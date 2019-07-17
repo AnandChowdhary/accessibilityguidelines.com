@@ -1,0 +1,147 @@
+$theme: #492257;
+
+@font-face {
+  font-family: "Public Sans";
+  src: url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-ExtraLight.woff2")
+      format("woff2"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-ExtraLight.woff")
+      format("woff"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Public Sans";
+  src: url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Regular.woff2")
+      format("woff2"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Regular.woff")
+      format("woff"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Public Sans";
+  src: url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Bold.woff2")
+      format("woff2"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Bold.woff")
+      format("woff"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}
+
+body {
+  font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  color: #130f40;
+  margin: 0;
+  line-height: 1.5;
+}
+
+h1,
+h2 {
+  line-height: 1.2;
+}
+
+main,
+div {
+  max-width: 720px;
+  margin: auto;
+  padding: 0 1.5rem;
+}
+
+main {
+  margin: 7.5vh auto;
+  font-size: 1.5rem;
+}
+
+header {
+  background-color: $theme;
+  color: #fff;
+  padding: 7.5vh 0;
+  .icon {
+    width: 5rem;
+    margin-bottom: 2rem;
+  }
+  h1 {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 200;
+  }
+}
+
+li + li {
+  margin-top: 0.5rem;
+}
+
+a,
+h2,
+footer {
+  color: #714880;
+}
+
+a {
+  text-decoration: none;
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 90%;
+  text-transform: uppercase;
+  margin-top: 7.5vh;
+  letter-spacing: 1px;
+  + p {
+    margin-top: 0;
+  }
+}
+
+footer {
+  margin-bottom: 5vh;
+  a {
+    color: inherit;
+  }
+  p {
+    margin: 0;
+  }
+  button {
+    appearance: none;
+    font: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    color: inherit;
+  }
+}
+
+.links {
+  font-size: 2rem;
+  a {
+    margin-right: 0.5rem;
+    display: inline-block;
+  }
+}
+
+@media (max-width: 500px) {
+  main,
+  div {
+    font-size: 1.25rem;
+  }
+  header h1 {
+    font-size: 2rem;
+  }
+  footer div {
+    font-size: 1rem;
+  }
+}

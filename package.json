@@ -1,0 +1,24 @@
+{
+  "name": "o15y.com",
+  "version": "0.1",
+  "description": "The landing page for O15Y",
+  "main": "dist/index.js",
+  "repository": "git@github.com:o15y/o15y.com",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc && node dist/build.js",
+    "watch": "onchange '*.{html,scss,ts,json}' -- yarn build"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.0",
+    "@types/html-minifier": "^3.5.3",
+    "@types/node": "^12.6.3",
+    "@types/sass": "^1.16.0",
+    "fs-extra": "^8.1.0",
+    "html-minifier": "^4.0.0",
+    "onchange": "^6.0.0",
+    "sass": "^1.22.5",
+    "typescript": "^3.5.3"
+  }
+}
