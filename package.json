@@ -8,8 +8,9 @@
   "license": "MIT",
   "scripts": {
     "compile": "tsc",
-    "build": "node dist/build.js",
-    "watch": "onchange '*.{html,scss,ts,json,md}' -- yarn build",
+    "build": "yarn compile && yarn build-site",
+    "build-site": "node dist/build.js",
+    "watch": "onchange '*.{html,scss,ts,json,md}' -- yarn build-site",
     "watch-prettier": "onchange '*.{html,scss,ts,json}' -- prettier --write {{changed}}",
     "watch-compile": "onchange 'build.ts' -- yarn compile",
     "serve": "live-server dist --quiet",
