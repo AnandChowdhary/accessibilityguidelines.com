@@ -1,4 +1,6 @@
-$theme: #492257;
+$theme: #1e4147;
+$text-color: #00171b;
+$light-color: #fae3b4;
 
 @font-face {
   font-family: "Public Sans";
@@ -41,7 +43,7 @@ body {
   font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol";
-  color: #130f40;
+  color: $text-color;
   margin: 0;
   line-height: 1.5;
 }
@@ -65,16 +67,18 @@ main {
 
 header {
   background-color: $theme;
-  color: #fff;
+  color: $light-color;
   padding: 7.5vh 0;
   .icon {
     width: 5rem;
-    margin-bottom: 2rem;
+    margin: 0 2rem 2rem 0;
+    vertical-align: middle;
   }
   h1 {
     margin: 0;
     font-size: 3rem;
     font-weight: 200;
+    display: inline-block;
   }
 }
 
@@ -85,7 +89,7 @@ li + li {
 a,
 h2,
 footer {
-  color: #714880;
+  color: $theme;
 }
 
 a {
@@ -122,14 +126,6 @@ footer {
     border: 0;
     padding: 0;
     color: inherit;
-  }
-}
-
-.links {
-  font-size: 2rem;
-  a {
-    margin-right: 0.5rem;
-    display: inline-block;
   }
 }
 
