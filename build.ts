@@ -2,13 +2,18 @@ import { readFile, writeFile, copy } from "fs-extra";
 import { join } from "path";
 import { render } from "sass";
 import { minify } from "html-minifier";
+import marked from "marked";
 
+const startTime = new Date().getTime();
 console.log("Building website...");
 
 const build = async () => {
-  const xhtml = (await readFile(
-    join(__dirname, "..", "index.html")
-  )).toString();
+  const content = marked(
+    (await readFile(join(__dirname, "..", "README.md"))).toString()
+  );
+  const xhtml = (await readFile(join(__dirname, "..", "index.html")))
+    .toString()
+    .replace("<main>", `<main>${content}`);
   const scss = (await readFile(
     join(__dirname, "..", "styles.scss")
   )).toString();
@@ -49,5 +54,9 @@ const renderScss = (data: string) =>
   });
 
 build()
-  .then(() => console.log("Completed!"))
+  .then(() =>
+    console.log(
+      `Built in ${((new Date().getTime() - startTime) / 1000).toFixed(2)}s`
+    )
+  )
   .catch(error => console.log("Error", error));
