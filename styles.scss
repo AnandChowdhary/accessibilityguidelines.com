@@ -1,5 +1,6 @@
 $theme: #1e4147;
 $text-color: #00171b;
+$link-color: #006365;
 $light-color: #fae3b4;
 
 @font-face {
@@ -99,10 +100,15 @@ li + li {
   margin-top: 0.5rem;
 }
 
+li {
+  padding-left: 0.5rem;
+}
+
 a,
 h2,
+cite,
 footer {
-  color: $theme;
+  color: $link-color;
 }
 
 a {
