@@ -9,7 +9,7 @@
   "scripts": {
     "compile": "tsc",
     "build": "node dist/build.js",
-    "watch": "onchange '*.{html,scss,ts,json}' -- yarn build",
+    "watch": "onchange '*.{html,scss,ts,json,md}' -- yarn build",
     "watch-prettier": "onchange '*.{html,scss,ts,json}' -- prettier --write {{changed}}",
     "watch-compile": "onchange 'build.ts' -- yarn compile",
     "serve": "live-server dist --quiet",

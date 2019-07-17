@@ -28,6 +28,18 @@ $light-color: #fae3b4;
 }
 @font-face {
   font-family: "Public Sans";
+  src: url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Italic.woff2")
+      format("woff2"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Italic.woff")
+      format("woff"),
+    url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Italic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Public Sans";
   src: url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Bold.woff2")
       format("woff2"),
     url("https://public-cdn.oswaldlabs.com/fonts/public-sans/PublicSans-Bold.woff")
@@ -68,7 +80,8 @@ main {
 header {
   background-color: $theme;
   color: $light-color;
-  padding: 7.5vh 0;
+  text-align: center;
+  padding: 10vh 0 7.5vh 0;
   .icon {
     width: 5rem;
     margin: 0 2rem 2rem 0;
@@ -126,6 +139,33 @@ footer {
     border: 0;
     padding: 0;
     color: inherit;
+  }
+}
+
+blockquote {
+  margin-left: 0;
+  padding-left: 2rem;
+  border-left: 0.5rem solid rgba($theme, 0.1);
+  font-style: italic;
+}
+
+.skip-link {
+  background: $light-color;
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  font-weight: bold;
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  &:focus {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    width: auto;
+    height: auto;
   }
 }
 

@@ -13,7 +13,7 @@ const build = async () => {
   );
   const xhtml = (await readFile(join(__dirname, "..", "index.html")))
     .toString()
-    .replace("<main>", `<main>${content}`);
+    .replace("</main>", `${content}</main>`);
   const scss = (await readFile(
     join(__dirname, "..", "styles.scss")
   )).toString();
