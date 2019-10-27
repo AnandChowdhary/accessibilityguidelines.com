@@ -16,8 +16,8 @@
 - Smart quotes, manual of style, implementation guide (smartquotes.js or Hugo Markdown render)
 - Translation?
 - Don’t use flag icons for languages, what about currencies?
-- Primark employee badges have little flags for languages (works well)
-- Flixbus website has a globe icon for English plus flag icons
+  - Primark employee badges have little flags for languages (works well)
+  - Flixbus website has a globe icon for English plus flag icons
 - Use input autocomplete attributes for autocomplete and for password managers (see docs)
 - :focus-visible
 
