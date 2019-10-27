@@ -19,6 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://anandchowdhary.com/?utm_source=github&utm_campaign=about-link"><img src="https://avatars3.githubusercontent.com/u/2841780?v=4" width="100px;" alt="Anand Chowdhary"/><br /><sub><b>Anand Chowdhary</b></sub></a><br /><a href="#blog-AnandChowdhary" title="Blogposts">📝</a> <a href="#content-AnandChowdhary" title="Content">🖋</a></td>
+    <td align="center"><a href="http://ratiksharma.com"><img src="https://avatars0.githubusercontent.com/u/1370559?v=4" width="100px;" alt="Ratik Sharma"/><br /><sub><b>Ratik Sharma</b></sub></a><br /><a href="#ideas-libhide" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
