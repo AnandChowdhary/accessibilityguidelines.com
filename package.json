@@ -2,14 +2,13 @@
   "name": "accessibilityguidelines.com",
   "version": "0.1.9",
   "description": "Accessibility guidelines",
-  "main": "dist/index.js",
   "repository": "git@github.com:AnandChowdhary/accessibilityguidelines.com",
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "scripts": {
     "build": "site",
     "watch": "onchange '*.{html,scss,ts,json,md}' -- yarn build",
-    "serve": "live-server dist --quiet",
+    "serve": "live-server public --quiet",
     "start": "concurrently 'yarn watch' 'yarn serve'"
   },
   "devDependencies": {
