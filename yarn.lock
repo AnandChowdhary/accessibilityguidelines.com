@@ -8,9 +8,9 @@
   integrity sha512-6xnwtvp9DY1EINIKdTfvfeAtCYw4OqBZJhtiqkT3ivjnEfa25VQ3TsKvaFfKm8MyGIEfE95qLe+bNEt3nB0Ylg==
 
 "@staart/site@^1.1.10":
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/@staart/site/-/site-1.1.10.tgz#797b9c7f42185810649c7d5b0bf8b7d5adc50e4c"
-  integrity sha512-/aXNRx2wpGimM7xZxVBkIt3Sw7AzByaIPZVLEmk1PD8ReScTBMvA4pjC3rSCslfT5FyV7m2mONNSmcASkBQ0Mg==
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@staart/site/-/site-1.1.12.tgz#2a5c68b1cd7f72e034032e762fc0df3b7785557e"
+  integrity sha512-hnCj0DerFJQPmNhN1W04zHIMv+J224I1WR5qW9kt6Wv8GmdI2cmNB4uJm1YkrkfIRh0UdSmY7C7LhDeGuAj8tg==
   dependencies:
     axios "^0.19.0"
     concurrently "^5.0.0"
