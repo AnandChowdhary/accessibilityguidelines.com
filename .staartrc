@@ -4,5 +4,7 @@
   "themeColor": "#1e4147",
   "textColor": "#00171b",
   "linkColor": "#006365",
-  "lightColor": "#fae3b4"
+  "lightColor": "#fae3b4",
+  "googleAnalytics": "UA-39298323-5",
+  "agastyaApiKey": "accessibility-guidelines"
 }
