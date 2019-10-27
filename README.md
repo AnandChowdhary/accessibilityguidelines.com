@@ -1,5 +1,4 @@
 # ♿ Accessibility Guidelines
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 A website about building products inclusively, by
 [Anand Chowdhary](https://anandchowdhary.com) at
@@ -11,15 +10,7 @@ A website about building products inclusively, by
 | Dependencies | [![Dependencies](https://img.shields.io/david/AnandChowdhary/accessibilityguidelines.com.svg)](https://david-dm.org/AnandChowdhary/accessibilityguidelines.com) [![Dev dependencies](https://img.shields.io/david/dev/AnandChowdhary/accessibilityguidelines.com.svg)](https://david-dm.org/AnandChowdhary/accessibilityguidelines.com) ![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/AnandChowdhary/accessibilityguidelines.com.svg) |
 | Community | [![Contributors](https://img.shields.io/github/contributors/AnandChowdhary/accessibilityguidelines.com.svg)](https://github.com/AnandChowdhary/accessibilityguidelines.com/graphs/contributors) [![GitHub](https://img.shields.io/github/license/AnandChowdhary/accessibilityguidelines.com.svg)](https://github.com/AnandChowdhary/accessibilityguidelines.com/blob/master/LICENSE) [![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faccessibilityguidelines.com%2Fshield-schema%2Fsite.json)](https://accessibilityguidelines.com) |
 
-
-## 📄 License
-
-- Code:
-  [MIT](https://github.com/AnandChowdhary/accessibilityguidelines.com/blob/master/LICENSE)
-- Content and assets: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Accessible Icon: [Public domain](http://accessibleicon.org/)
-
-## Contributors ✨
+## 👥 Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -34,3 +25,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## 📄 License
+
+- Code:
+  [MIT](https://github.com/AnandChowdhary/accessibilityguidelines.com/blob/master/LICENSE)
+- Content and assets: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Accessible Icon: [Public domain](http://accessibleicon.org/)
