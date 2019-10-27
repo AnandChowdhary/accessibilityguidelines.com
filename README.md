@@ -1,29 +1,18 @@
-> The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.  
-<cite>— Tim Berners-Lee<a href="https://en.wikiquote.org/wiki/Talk:Tim_Berners-Lee#Unsourced" title="This quote is unsourced">*</a></cite>
+# ♿ Accessibility Guidelines
 
-## Mission
+A website about building products inclusively, by
+[Anand Chowdhary](https://anandchowdhary.com) at
+[Oswald Labs](https://oswaldlabs.com).
 
-1. This website should cover all aspects of accessible design, from typography and images to futuristic assistive technology
-2. The guidelines should never be complete; they should evolve with time ([open-sourced on GitHub](https://github.com/AnandChowdhary/accessibilityguidelines.com))
-3. For easy implementation, guidelines should be backed by code samples for the web
+|              | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Website      | [![Netlify](https://img.shields.io/netlify/d74fe3c2-8d5e-4e53-8695-2da54d827f15)](https://app.netlify.com/sites/accessibilityguidelines/deploys) [![Website status](https://img.shields.io/website?down_color=red&down_message=down&up_color=brightgreen&up_message=online&url=https%3A%2F%2Faccessibilityguidelines.com)](https://accessibilityguidelines.com) [![Uptime](https://img.shields.io/uptimerobot/ratio/7/m783692250-809778dcdac7468c0e663151)](https://stats.uptimerobot.com/m29YvtjqOg) [![Travis CI](https://img.shields.io/travis/AnandChowdhary/accessibilityguidelines?label=Travis%20CI)](https://travis-ci.org/AnandChowdhary/accessibilityguidelines.com) |
+| Dependencies | [![Dependencies](https://img.shields.io/david/AnandChowdhary/accessibilityguidelines.com.svg)](https://david-dm.org/AnandChowdhary/accessibilityguidelines.com) [![Dev dependencies](https://img.shields.io/david/dev/AnandChowdhary/accessibilityguidelines.com.svg)](https://david-dm.org/AnandChowdhary/accessibilityguidelines.com) ![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/AnandChowdhary/accessibilityguidelines.com.svg)                                                                                                                                                                                                                  |
+| Community    | [![Contributors](https://img.shields.io/github/contributors/AnandChowdhary/accessibilityguidelines.com.svg)](https://github.com/AnandChowdhary/accessibilityguidelines.com/graphs/contributors) [![GitHub](https://img.shields.io/github/license/AnandChowdhary/accessibilityguidelines.com.svg)](https://github.com/AnandChowdhary/accessibilityguidelines.com/blob/master/LICENSE)                                                                                                                                                                                                                                                                                           |
 
-## Progress
+## 📄 License
 
-- Text contrast ratios, sizes and weights, AA/AAA
-- Link underlines, tooltips, focus states
-- Alt text for images, accessible SVGs
-- Color blindness, dyslexia, Agastya incorporation
-- Using correct elements, eg. and , accessibility tree
-- Keyboard navigation, “skip to content”
-- ARIA attributes, SEO meta tags, etc.
-- Semantic tags, eg. blockquote cite
-- Adding speech synthesis to all content? Not good, but a case can be made
-- 20% reading time Augmenta11y research
-- Button text shouldn't be title cased, should be sentence cased; manual of style
-- Smart quotes, manual of style, implementation guide (smartquotes.js or Hugo Markdown render)
-- Translation?
-- Don't use flag icons for languages, what about currencies?
-  - Primark employee badges have little flags for languages (works well)
-  - Flixbus website has a globe icon for English plus flag icons
-- Use input autocomplete attributes for autocomplete and for password managers (see docs)
-- :focus-visible
+- Code:
+  [MIT](https://github.com/AnandChowdhary/accessibilityguidelines.com/blob/master/LICENSE)
+- Content and assets: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Accessible Icon: [Public domain](http://accessibleicon.org/)
