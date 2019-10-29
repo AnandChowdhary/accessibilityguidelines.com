@@ -1,7 +1,7 @@
 {
   "name": "accessibilityguidelines.com",
   "version": "0.1.9",
-  "description": "Accessibility guidelines",
+  "description": "Universal accessibility guidelines for building inclusive products, by Anand Chowdhary at Oswald Labs",
   "repository": "git@github.com:AnandChowdhary/accessibilityguidelines.com",
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",

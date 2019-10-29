@@ -6,5 +6,8 @@
   "linkColor": "#006365",
   "lightColor": "#fae3b4",
   "googleAnalytics": "UA-39298323-5",
-  "agastyaApiKey": "accessibility-guidelines"
+  "agastyaApiKey": "accessibility-guidelines",
+  "twitterPublisher": "OswaldLabs",
+  "twitterCreator": "AnandChowdhary",
+  "seoImage": "https://accessibilityguidelines.com/assets/smo.png"
 }
