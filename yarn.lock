@@ -14,10 +14,10 @@
   resolved "https://registry.yarnpkg.com/@blakeembrey/deque/-/deque-1.0.5.tgz#f4fa17fc5ee18317ec01a763d355782c7b395eaf"
   integrity sha512-6xnwtvp9DY1EINIKdTfvfeAtCYw4OqBZJhtiqkT3ivjnEfa25VQ3TsKvaFfKm8MyGIEfE95qLe+bNEt3nB0Ylg==
 
-"@staart/site@^1.2.8":
-  version "1.2.8"
-  resolved "https://registry.yarnpkg.com/@staart/site/-/site-1.2.8.tgz#47d3c83749b042a8548427117a2dea5dbe409baa"
-  integrity sha512-fIlx+KISn2iewhwT4sbBgrjiVipEsCCM5kprmqQtDBtgcxxGuztrUmsLdmU9LA1wuj5j+NP6PxejwSn3cAjeDg==
+"@staart/site@1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@staart/site/-/site-1.3.1.tgz#c57866fe12518762d4a156ec9b88d4ae8a586073"
+  integrity sha512-UWXkXNRhT33EUnz5zQFkJo/Tuu2FT9nXVEMsJqcb7DNuV0NVN9SWS1GvTdrZ+TpRi2+9/QVirvfoj2qty7aNbQ==
   dependencies:
     axios "^0.19.0"
     concurrently "^5.0.0"
