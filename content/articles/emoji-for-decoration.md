@@ -40,7 +40,7 @@ document.querySelectorAll("h1, h2, h3, h4, h5, h6, p, a").forEach(element => {
 
 Try the following [JSFiddle example](https://jsfiddle.net/anandchowdhary/8sjeoyn2/19/) with a screen reader to see this code in action.
 
-<iframe width="100%" height="300" src="https://jsfiddle.net/anandchowdhary/14tug0qm/1/embedded/result,html,css/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="https://jsfiddle.net/anandchowdhary/14tug0qm/1/embedded/result,html,js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## Notes
 
